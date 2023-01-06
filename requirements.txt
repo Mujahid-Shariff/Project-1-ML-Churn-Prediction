@@ -1,5 +1,4 @@
 random forest
-scikit-learn
 sklearn
 numpy
 pandas
