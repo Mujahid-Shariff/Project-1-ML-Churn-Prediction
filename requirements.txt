@@ -1,5 +1,6 @@
-random forest
+
 sklearn
+scikit-learn
 numpy
 pandas
 pickle
