@@ -81,7 +81,7 @@ def main():
                            evening_mins,night_mins,international_mins,customer_service_calls,
                            international_plan,day_calls,day_charge,evening_calls,evening_charge,night_calls,
                            night_charge,international_calls,international_charge,total_charge)
-        st.header('We can predict that our'.format(result))
+        st.header('We can predict that our {}% '.format(result))
         if result[0]==0:
             st.error("Customer will not churn")
         else:
